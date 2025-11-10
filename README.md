@@ -113,4 +113,4 @@ jobs:
 
 ---
 
-*You can copy and paste this README.md directly into your GitHub repository.*
+
